@@ -1,0 +1,7 @@
+"Strawberry"
+"Chocolate"
+"Vanilla"
+"Cinnamon"
+"Cardamom"
+"Black Tea"
+"Cookies and Cream"
