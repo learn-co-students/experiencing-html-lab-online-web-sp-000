@@ -1,0 +1,5 @@
+"Labradoodle"
+"Great Dane"
+"German Shepherd"
+"Bisenji"
+"Yorkshire Terrier"
