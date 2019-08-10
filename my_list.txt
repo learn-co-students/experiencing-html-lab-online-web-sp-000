@@ -1,0 +1,8 @@
+//my list items
+"Star Trek"
+"Star Trek TNG"
+"Star Trek Deep Space Nine"
+"Star Trek Voyager"
+"Star Trek Enterprise"
+"Star Trek Discovery"
+"Star Trek Picard"
