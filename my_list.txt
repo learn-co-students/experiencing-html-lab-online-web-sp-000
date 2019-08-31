@@ -1,0 +1,7 @@
+"Harry Potter"
+"Hermione Granger"
+"Ron Weasley"
+"Draco Malfoy"
+"Cedric Digory"
+"Severus Snape"
+"Albus Dumbledore"
