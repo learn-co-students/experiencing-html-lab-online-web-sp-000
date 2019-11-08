@@ -1,0 +1,6 @@
+"Pikachu"
+"Charmander"
+"Squirtle"
+"Bulbasaur"
+"Eevee"
+"Ditto"
