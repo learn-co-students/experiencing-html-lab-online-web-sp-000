@@ -1,0 +1,3 @@
+"Here is an example of some text."
+"Here is some more text."
+"More text is a good thing in a text file."
