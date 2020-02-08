@@ -28,7 +28,8 @@ Launch the Learn IDE (use the Open IDE button) and create a new file called
 `my_list.txt`. The file extension suggests to humans and operating systems
 that it contains text.
 
-Think of a collection of things united by theme: Pok&eacute;mon, Old-school
+Think of a collection of things united by theme:
+Pok&eacute;mon, Old-school
 MC's, Prime Ministers of New Zealand, Magical Beasts and Where to Find Them,
 etc.
 
@@ -36,7 +37,7 @@ Now write in a few of these in your file. Here's one from us (songs in the
 English post-punk genre).
 
 ```text
-"Love Will Tear Us Apart"
+cLove Will Tear Us Apart"
 "Bela Lugosi's Dead"
 "A Forest"
 "Nine While Nine"
@@ -49,12 +50,12 @@ we're trying to communicate.
 ### Content as a List in a Text File
 
 A problem with our _content_ is that it doesn't explicitly state anywhere that
-it's a list.  In the example, we see a list of songs. But a browser doesn't know what a "list" is. 
+it's a list.  In the example, we see a list of songs. But a browser doesn't know what a "list" is.
 
 We need to help browser **know**  what a list is. The secret is to add "notes"
 or "breadcrumbs" to the content that tell the browser that it has list items
 and that these items "go together" in a list.  To add these "notes" we surround
-the _content_ with bits of _markup_, with bits of HTML. 
+the _content_ with bits of _markup_, with bits of HTML.
 
 We will take the text content from our text file, paste it into a new HTML file
 and then we will add _markup_ so that a browser "sees" a list.  Let's write an
@@ -263,7 +264,7 @@ Here's the full example code:
 When you're done, click on the **terminal** of the Learn IDE. Your `httpserver`
 program should still be running there. To exit `httpserver` press `Control +
 c`. This will tell `httpserver` to shut down and you should be back at the
-prompt. 
+prompt.
 
 Make sure that you have your HTML content in a file called `my_list.html` in
 order to pass the check. Type `learn` and verify that your tests pass.
@@ -277,7 +278,7 @@ In this lab, you have, essentially, done the job of being an HTML author. You
 receive raw _content_, you _mark it up_ to create _source text_. You test,
 tweak, and adjust your _source text_ until the _rendered text_ displayed in the
 browser is to your
-liking. 
+liking.
 
 In upcoming lessons, we will learn additional tags which provide us more
 ways to describe our content.  We might be starting with lists today, but soon
