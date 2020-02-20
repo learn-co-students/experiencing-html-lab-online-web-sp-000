@@ -1,0 +1,4 @@
+"Charmander"
+"Bulbasaur"
+"Squirtle"
+"Articuno"
