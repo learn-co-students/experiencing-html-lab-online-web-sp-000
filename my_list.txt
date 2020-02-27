@@ -1,0 +1,5 @@
+"Monkey"
+"Whale"
+"Ape"
+"Gorilla"
+"Chimpanzee"
