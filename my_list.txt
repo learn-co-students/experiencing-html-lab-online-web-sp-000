@@ -1,0 +1,6 @@
+"Easter"
+"Christmas"
+"Saint Patrick's Day"
+"Halloween"
+"Thanksgiving"
+"Valentine's Day"
