@@ -1,0 +1,5 @@
+"intel i7-8700K CPU @ 3.70GHz"
+"ROG MAXIMUS X FORMULA"
+"32 GB Corsair Vengence RAM"
+"Corsair HX1200i psu"
+"ASUS ROG GTX 1080Ti Posieoden GPU"
