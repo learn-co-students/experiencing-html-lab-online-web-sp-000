@@ -1,0 +1,5 @@
+"Charizard"
+"Pikachu"
+"Articuno"
+"Rayquaza"
+"Snorlax" 
