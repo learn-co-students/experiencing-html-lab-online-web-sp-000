@@ -1,0 +1,7 @@
+"Pittsburgh Penguins"
+"Philadelphia Flyers"
+"New York Islanders"
+"New York Rangers"
+"Washington Capitals"
+"Carolina Hurricanes"
+"Columbus Blue Jackets"
