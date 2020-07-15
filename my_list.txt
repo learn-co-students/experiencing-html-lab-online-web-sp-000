@@ -1,0 +1,6 @@
+"Fearow"
+"Snorlax"
+"Scyther"
+"Pikachu"
+"Gengar"
+"Machop"
