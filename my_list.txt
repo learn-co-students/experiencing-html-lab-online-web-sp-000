@@ -1,0 +1,6 @@
+"aries"
+"taurus"
+"gemini"
+"cancer"
+"leo"
+"virgo"
