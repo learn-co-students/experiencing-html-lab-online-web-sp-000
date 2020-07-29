@@ -1,0 +1,6 @@
+"Canada"
+"Norway"
+"Sweden"
+"Denkmark"
+"Germany"
+"Iceland"
