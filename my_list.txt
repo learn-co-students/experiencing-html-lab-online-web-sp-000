@@ -1,0 +1,5 @@
+"rosemary"
+"thyme"
+"sage"
+"oregano"
+"mint"
