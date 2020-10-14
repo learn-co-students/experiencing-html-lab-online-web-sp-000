@@ -1,0 +1,5 @@
+"Steak"
+"Hot Dog"
+"Chicken"
+"Sausage"
+"Brisket"
