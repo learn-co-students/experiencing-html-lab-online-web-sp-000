@@ -1,0 +1,6 @@
+"Playstation 3"
+"XBox 360"
+"Playstation 4"
+"XBox one"
+"Playstation 5"
+"Xbox Series X"
