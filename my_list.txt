@@ -1,0 +1,4 @@
+"xauusd"
+"usoil"
+"usdjpy"
+"gbpjpy"
