@@ -1,0 +1,4 @@
+"Bench Press"
+"Leg Press" 
+"Barbell Bicep Curl"
+"Dumbbell Skull Crusher"
