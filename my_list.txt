@@ -1,0 +1,5 @@
+"Jack Russell"
+"Sheepadoodle"
+"Corgi"
+"Golden Retriever"
+"Dalmatian"
