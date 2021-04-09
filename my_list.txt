@@ -1,0 +1,5 @@
+"Apples"
+"Bananas"
+"Cantaloupes"
+"Dragonfruits"
+"Elderberries"
