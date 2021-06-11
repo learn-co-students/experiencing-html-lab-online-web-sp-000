@@ -1,0 +1,6 @@
+Dirt
+Grass
+Stone
+Sand
+Sandstone
+Clay
